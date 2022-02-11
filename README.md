@@ -34,7 +34,8 @@ Both apis are in trouble due to the number of requests
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-## Programming
+
+### Programming
   <div align="center">  
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height="50">
@@ -46,7 +47,8 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50">
   </div>
   </td><td valign="top" width="33%">
-## DevOps
+
+### DevOps
   <div align="center">  
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50">
@@ -56,7 +58,8 @@ Both apis are in trouble due to the number of requests
     <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" height="50">
   </div>
   </td><td valign="top" width="33%">
-## System
+
+### System
   <div align="center"> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" height="50">
@@ -73,7 +76,7 @@ Both apis are in trouble due to the number of requests
  </td></tr></table>
  <table><tr><td valign="top" width="33%">
 
-## OS/Virtualization
+### OS/Virtualization
   <div align="center"> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
@@ -81,8 +84,11 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://www.svgrepo.com/show/306611/proxmox.svg" height="50">
   <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vmware-5.svg" height="50">
   </div>
-  </td><td valign="top" width="33%">
-## Cloud
+  </td>
+
+### Cloud
+  <td valign="top" width="33%">
+
   <div align="center"> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/scaleway/scaleway-ar21.svg" height="50">
@@ -91,7 +97,8 @@ Both apis are in trouble due to the number of requests
   </div>
  </td>
   </td><td valign="top" width="33%">
-## Network
+
+### Network
   <div align="center"> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" height="50">
   <img style="margin: 10px" src="https://logotyp.us/files/sophos.svg" height="50">
