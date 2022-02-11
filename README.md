@@ -82,7 +82,7 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.svgrepo.com/show/306611/proxmox.svg" height="50">
-  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vmware-5.svg" height="50">
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vmware-5.svg" height="30">
   </div>
   </td>
   <td valign="top" width="33%">
@@ -92,7 +92,7 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/scaleway/scaleway-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="50">
-  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/office-365-1.svg" height="50">
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/office-365-1.svg" height="30">
   </div>
  </td>
   </td><td valign="top" width="33%">
