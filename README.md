@@ -72,8 +72,9 @@ Both apis are in trouble due to the number of requests
  </td></tr></table>
  <table><tr><td valign="top" width="33%">
 
-## OS/Virtualization 
+
   <div align="center"> 
+  ## OS/Virtualization 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" height="50">
@@ -81,7 +82,7 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vmware-5.svg" height="50">
   </div>
   </td><td valign="top" width="33%">
-## Cloud
+## Cloud 
   <div align="center"> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/scaleway/scaleway-ar21.svg" height="50">
