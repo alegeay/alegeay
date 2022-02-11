@@ -67,7 +67,7 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://www.svgrepo.com/show/353829/grafana.svg" height="50">
   <img style="margin: 10px" src="https://www.svgrepo.com/show/354219/prometheus.svg" height="50">
   <img style="margin: 10px" src="https://www.svgrepo.com/show/306233/influxdb.svg" height="50">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Veeam_logo.svg" height="50">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Veeam_logo.svg" height="20">
   </div>
  
  </td></tr></table>
