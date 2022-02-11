@@ -7,7 +7,8 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alegeay)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-legeay-6773aa140/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexislegeay@hotmail.fr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexislegeay@hotmail.fr)
+[![Gmail](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/A5dtKnWVVC)
 [![Gmail](https://views.whatilearened.today/views/github/alegeay/alegeay.svg)](https://github.com/alegeay)
 <!-- Your hits or visitors
 api: http://hits.dwyl.com or https://visitor-badge.glitch.me
@@ -46,6 +47,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img width="10%" src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
   <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/rookio/rookio-ar21.svg">
+  <br>
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   <br />
@@ -57,13 +64,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  
   <br>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/rookio/rookio-ar21.svg">
 </p>
 
 ---
