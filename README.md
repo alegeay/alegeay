@@ -72,7 +72,7 @@ Both apis are in trouble due to the number of requests
  </td></tr></table>
  <table><tr><td valign="top" width="33%">
 
-### OS / Virtualization
+## Projects  
   <div align="center"> 
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
@@ -105,7 +105,7 @@ Both apis are in trouble due to the number of requests
 <br>
 
 ---
-
+## Projects  
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/Smart4L/Smart4L">
