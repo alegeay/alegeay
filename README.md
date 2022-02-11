@@ -67,6 +67,7 @@ Both apis are in trouble due to the number of requests
   <img style="margin: 10px" src="https://www.svgrepo.com/show/353829/grafana.svg" height="50">
   <img style="margin: 10px" src="https://www.svgrepo.com/show/354219/prometheus.svg" height="50">
   <img style="margin: 10px" src="https://www.svgrepo.com/show/306233/influxdb.svg" height="50">
+  <img style="margin: 10px" src="https://commons.wikimedia.org/wiki/File:Veeam_logo.svg#/media/File:Veeam_logo.svg" height="50">
   </div>
  
  </td></tr></table>
@@ -74,7 +75,6 @@ Both apis are in trouble due to the number of requests
 
 ## OS/Virtualization
   <div align="center"> 
-
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" height="50">
