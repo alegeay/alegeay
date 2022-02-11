@@ -29,8 +29,8 @@ Both apis are in trouble due to the number of requests
 
 
 - 🔭 I’m currently working on [Smart4L](https://github.com/Smart4L/Smart4L);
-- 🌱 I’m currently learning nothing
-- 💬 Ask me about anything, maybe i will answer you (or not)
+- 🌱 I’m currently learning Kubernetes and Terraform
+- 💬 Ask me about anything, maybe i will answer you (or not) 😁
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
